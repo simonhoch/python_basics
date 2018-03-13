@@ -1,0 +1,5 @@
+In python , you can
+do statement,
+do loops,
+managing data,
+and do everything you want!
